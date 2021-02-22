@@ -1,6 +1,6 @@
-## Getting Started
+## Mini projeto - Conta bancária
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Esse projeto foi criado para abstrair uma classe de um conta bancária afins de praticar o encapsulamento em JAVA
 
 ## Folder Structure
 
